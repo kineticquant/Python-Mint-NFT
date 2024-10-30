@@ -1,5 +1,8 @@
 # Python-Mint-NFT
 
+## Archiving
+This utility is quite dated and very simple to implement. NFT's are also not nearly as common as they once were, thus as a result, this code has been archived as there's no need to modify it.
+
 ## About
 This is used to mint NFT's in Python by calling the Thirdweb Python library which bypasses the need to write something in Solidarity by using the Thirdweb SDK. Typically minting with Solidarity would require significant testing, security verifications, and once the NFT is minted, it obviously cannot be adjusted or altered since it's on the blockchain. It's significantly easier to mint using Thirdweb's SDK and this simple code instead.
 
